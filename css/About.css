@@ -1,0 +1,29 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {background-color: bisque;}
+
+#Logo{float: left;padding-bottom: 20px;padding-left: 15px;}
+
+#Icon{float: right;padding-bottom: 20px;padding-right: 15px;}
+
+#navigation {clear: both; border-top:solid black 2px; border-bottom:solid black 2px;word-spacing: 30px;margin: 15px;padding: 10px;}
+#navigation a{text-decoration: none;}
+#navigation a:link{color: black;}
+#navigation a:hover{color: #d2881e;}
+#navigation a:visited{color: black;}
+
+#banner img {margin: auto;}
+#Weldow {float:left;width: 650px; margin:15px}
+#Weldow h1{color: #d2881e;border-bottom: solid black 0.5px;padding: 10px}
+#Weldow img{ border-top:solid gray 1px; border-bottom:solid gray 1px; border-right:solid gray 1px; border-left:solid gray 1px;padding: 6px;margin: 14px;}
+
+#kanan {float:right;width: 200px;margin-top: 25px;}
+#kanan h1{color: black}
+#kanan h3{color: #d2881e;}
+
+
+
+#Footer {clear:both; border-top:solid black 1.5px; text-align:center;padding-top: 5px;padding-bottom: 7px;}
+#Kotak {background-color: white; margin: 0px auto; width:950px;padding-top: 30px;}
+#KotakKotak {background-color: white; margin: 0px auto; width: 900px;}
